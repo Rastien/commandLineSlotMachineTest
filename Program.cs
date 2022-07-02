@@ -187,8 +187,6 @@ void spinReels()
 
     var totalCoefficient = Math.Round(rowOneCoefficient + rowTwoCoefficient + rowThreeCoefficient + rowFourCoefficient, 4, MidpointRounding.AwayFromZero);
 
-    Console.WriteLine(totalCoefficient.ToString() );
-
     winTotal = Math.Round(stake * totalCoefficient, 2);
 
     Console.WriteLine();
