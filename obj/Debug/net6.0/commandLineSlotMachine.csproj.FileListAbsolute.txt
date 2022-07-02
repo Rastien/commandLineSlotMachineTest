@@ -1,0 +1,15 @@
+C:\Dev\commandLineSlotMachine\bin\Debug\net6.0\commandLineSlotMachine.exe
+C:\Dev\commandLineSlotMachine\bin\Debug\net6.0\commandLineSlotMachine.deps.json
+C:\Dev\commandLineSlotMachine\bin\Debug\net6.0\commandLineSlotMachine.runtimeconfig.json
+C:\Dev\commandLineSlotMachine\bin\Debug\net6.0\commandLineSlotMachine.dll
+C:\Dev\commandLineSlotMachine\bin\Debug\net6.0\commandLineSlotMachine.pdb
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.csproj.AssemblyReference.cache
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.AssemblyInfoInputs.cache
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.AssemblyInfo.cs
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.csproj.CoreCompileInputs.cache
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.dll
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\refint\commandLineSlotMachine.dll
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.pdb
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\commandLineSlotMachine.genruntimeconfig.cache
+C:\Dev\commandLineSlotMachine\obj\Debug\net6.0\ref\commandLineSlotMachine.dll

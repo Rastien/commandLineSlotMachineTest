@@ -1,0 +1,5 @@
+C:\Dev\commandLineSlotMachine\bin\Release\commandLineSlotMachine.exe
+C:\Dev\commandLineSlotMachine\bin\Release\commandLineSlotMachine.dll
+C:\Dev\commandLineSlotMachine\bin\Release\commandLineSlotMachine.deps.json
+C:\Dev\commandLineSlotMachine\bin\Release\commandLineSlotMachine.runtimeconfig.json
+C:\Dev\commandLineSlotMachine\bin\Release\commandLineSlotMachine.pdb
